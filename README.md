@@ -20,3 +20,4 @@ How to run the project?
 How to analyze the test results?
 
 1.Double click on ORGANIZER.xlsx file and go to Teststep sheet to analyze the results. 
+
