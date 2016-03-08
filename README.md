@@ -4,11 +4,11 @@
 
 Url:www.gcrit.com/build3
 
-How to run the project?
+# How to run the project?
 
- Open command prompt 
+1.Open command prompt 
 
- Navigate to the directory where build.xml is available
+2.Navigate to the directory where build.xml is available
 
 3.Copy the location of the directory
 
@@ -22,9 +22,7 @@ How to run the project?
 
 8.Type ant generateReport
 
-
-
-How to analyze the test results?
+# How to analyze the test results?
 
 1.Double click on ORGANIZER.xlsx file and go to Teststep sheet to analyze the results. 
 
